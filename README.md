@@ -23,20 +23,20 @@ This project is not online. Follow the next few steps to deploy it locally.
 
 ## Key Features
 <p>anuncios</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/fnexus/Reto2/master/index/img/index_photo.png" alt="Logo empresa"/>
+<p>
+    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/index_photo.png" alt="Logo empresa"/>
 </p>
 <p>anuncio vista out</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/fnexus/Reto2/master/index/img/anuncio-captura.png" alt="Logo empresa"/>
+<p>
+    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-captura.png" alt="Logo empresa"/>
 </p>
 <p>anuncio vista in</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/fnexus/Reto2/master/index/img/anuncio-show-captura.png" alt="Logo empresa"/>
+<p>
+    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-show-captura.png" alt="Logo empresa"/>
 </p>
 <p>mis anuncios</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/fnexus/Reto2/master/index/img/misanuncios-captura.png" alt="Logo empresa"/>
+<p>
+    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/misanuncios-captura.png" alt="Logo empresa"/>
 </p>
 
 ## Libraries used:
