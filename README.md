@@ -29,10 +29,10 @@ This project is not online. Follow the next few steps to deploy it locally.
 <h3>Post overview</h3>
 <p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-captura.png" alt="Logo empresa"/></p>
 
-<h3>Post details view</h3>
+<h3>Details of the post and comments section</h3>
 <p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-show-captura.png" alt="Logo empresa"/></p>
 
-<h3>Company posts</h3>
+<h3>Company profile</h3>
 <p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/misanuncios-captura.png" alt="Logo empresa"/></p>
 
 ## Libraries used:
