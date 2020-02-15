@@ -7,11 +7,19 @@
     <img src="https://img.shields.io/badge/CSS-3-orange">
 </p>
 
-# Fnexus
-<p>fasdfsdfsdfasdafsadfasdfsdfasdfsdfsdfsdfsdfsdafsadfasdffdsafdassdfas + local deploy</p>
+<p>Fnexus website aims to create a networking space for entrepreneurs to promote themselves. This webApp enables them to show off their latest products gaining more visibility and recognition.</p>
 
 ## Deployment of the project
-<p>lo que ponga en el manual</p>
+This project is not online. Follow the next few steps to deploy it locally.
+
+- Step 1: Install Virtual box and Vagrant
+
+- Step 2: Clone this repo
+
+- Step 3: In the root directory of the project there is a file called VagrantFile that will provide to configuration for our project. Execute the "vagrant up" command in this directory to get the server up.
+
+- Step 4: Fnexus is ready! Deployment has been done in this local url: <a href="http://localhost:8765/index/PHP/index.php"> http://localhost:8765/index/PHP/index.php</a>
+
 
 ## Key Features
 <p>anuncios</p>
@@ -42,4 +50,4 @@
 - <a href="https://github.com/JulenOZegibide">Raúl Pedraza</a>
 
 ## User guide
-We have created a [user guide](https://github.com/fnexus/Reto2/blob/desarrollo/documentacion/Manual%20de%20usuario%20reto%202%20-%20grupo%202.pdf) to have a better understanding on how the app works :) 
+We have created a [user guide](https://github.com/fnexus/Reto2/blob/desarrollo/documentacion/Manual%20de%20usuario%20reto%202%20-%20grupo%202.pdf) to provide a better understanding on how the app works :) 
