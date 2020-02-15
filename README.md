@@ -22,22 +22,18 @@ This project is not online. Follow the next few steps to deploy it locally.
 
 
 ## Key Features
-<p>anuncios</p>
-<p>
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/index_photo.png" alt="Logo empresa"/>
-</p>
-<p>anuncio vista out</p>
-<p>
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-captura.png" alt="Logo empresa"/>
-</p>
-<p>anuncio vista in</p>
-<p>
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-show-captura.png" alt="Logo empresa"/>
-</p>
-<p>mis anuncios</p>
-<p>
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/misanuncios-captura.png" alt="Logo empresa"/>
-</p>
+<h3>Main view of the website</h3>
+<p>Here is where all the posts of the companies are shown</p>
+<p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/index_photo.png" alt="Logo empresa"/></p>
+
+<h3>Post overview</h3>
+<p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-captura.png" alt="Logo empresa"/></p>
+
+<h3>Post details view</h3>
+<p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/anuncio-show-captura.png" alt="Logo empresa"/></p>
+
+<h3>Company posts</h3>
+<p><img src="https://raw.githubusercontent.com/AdrianDanlos/Fnexus/master/index/img/misanuncios-captura.png" alt="Logo empresa"/></p>
 
 ## Libraries used:
  - <a href="https://jquerymodal.com/">jQueryModal</a>
